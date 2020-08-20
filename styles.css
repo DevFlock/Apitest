@@ -1,0 +1,12 @@
+body {
+    background-color: #131313;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+.divmain {
+    border: none;
+}
